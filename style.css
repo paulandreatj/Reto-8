@@ -24,11 +24,10 @@ h1, .rojofuerte, h2, .titulotabla, .gordita{
     font-weight: 900;
 }
 
-.rojofuerte,.rojosubrayado, .titulorojo{
+.rojofuerte,.rojosubrayado, .titulorojo, .rojosubrayado{
     color: red;
 }
 
-.rojosubrayado, .verde
 h2, .azulitalica, .titulotabla{
     color: blue;
 }
