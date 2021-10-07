@@ -1,0 +1,64 @@
+*{ 
+    border: 1px solid black;
+    font-size: 18px;
+    font-weight: 549;
+    cursor:default;
+}
+
+div{
+    background-color: white;
+}
+
+h1, p, h2{
+    margin: 1% 22% 1% 1%;
+    padding: 1%;
+    text-align: justify;
+}
+
+h1{
+    color: rgb(3, 185, 185);
+    font-size: 30px;
+}
+
+h1, .rojofuerte, h2, .titulotabla, .gordita{
+    font-weight: 900;
+}
+
+.rojofuerte,.rojosubrayado, .titulorojo{
+    color: red;
+}
+
+.rojosubrayado, .verde
+h2, .azulitalica, .titulotabla{
+    color: blue;
+}
+
+.azulitalica , .verdeitalica{
+    font-style: italic;
+}
+
+td, .verdeitalica, .verde{
+    color: rgb(0, 145, 0);
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+    height: 150px;
+}
+
+.tituloamarillo, .amarillo{
+    color: rgb(255, 208, 1);
+}
+
+.tituloamarillo, .titulorojo{
+    font-weight: 900;
+}
+
+.parrafoverde{
+   color: rgb(175, 192, 76); 
+}
+
+.lila{
+    color:rgb(233, 14, 233);
+}
